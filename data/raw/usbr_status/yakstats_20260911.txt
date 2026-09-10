@@ -1,0 +1,69 @@
+                           US BUREAU OF RECLAMATION
+                               YAKIMA PROJECT
+                 SYSTEM STATUS AT 06:00, Thursday, 10-Sep-2026 
+ 
+             FOREBAY                TOTAL     PERCENT   RESERVOIR RESERVOIR
+ RESERVOIR  ELEVATION   CONTENT    CAPACITY   CAPACITY     INFLOW  RELEASES
+ --------------------------------------------------------------------------
+                  FB         AF          AF         %         CFS       CFS
+ Keechelus   2435.58      13354.    157800.         8.         7.      153.
+ Kachess     2229.71     107505.    239000.        45.       191.      907.
+ Cle Elum    2126.31      33131.    436900.         8.       104.      475.
+ Bumping     3407.47      13283.     33970.        39.        50.      168.
+ Rimrock     2895.58     129930.    198000.        66.       230.     1148.
+ Clear Cr    3011.31
+ TOTALS                  297203.   1065400.        28.       582.     2850.
+ 
+ IRRIGATION DIVERSIONS                    RIVER FLOWS
+ ---------------------    CFS             -----------                  CFS
+ Kittitas                743.             Yakima River at Easton       313. 
+ Roza                    462.             Teanaway River at Forks       11.
+ Yakima-Tieton           152.             Yakima River near Horlick   1123.
+ Wapato                 1074.             Yakima River near Umtanum   1426.
+ Sunnyside               668.             Yakima River blw Roza Dam    508.
+ MAJOR USERS TOTAL      3097.             Naches River nr. Clf'Dell    246.
+                                          Tieton Rvr belw Cnl Hdwks    906.
+ Westside                 17.             Naches River near Naches    1258.
+ Naches-Selah            123.             Yakima River near Parker     364.
+ OTHERS ABOVE PARKER     683.             Yakima River near Prosser    994.
+                                          
+ TOTAL ABOVE PARKER     3920.
+ ----------------------------
+ Kennewick               172.
+ 
+ OTHER CANAL DIVERSIONS
+ Wapatox                  52.
+ Roza at Headworks       925. Generating 5.1MW, 9.5 panels down.  
+ Chandler                536. No Generation. 
+ 
+ UNREGULATED TRIBUTARY & RETURN FLOW ABOVE PARKER            1294. CFS
+ 
+ 
+ 
+ OPERATIONAL COMMENTS:   Storage is 69.2% of average (1991, 2020).
+ ---------------------
+ Please Note:  The System went on Storage Control MAY21.  The current 
+ proration rate for all Junior Water Right Holders is 60% based on the 
+ SEP03, TWSA.
+ Precipitation at the five reservoirs for Sep 1 to date is 4.50 inches,
+ or 207% of average and 62% of the months average.  Precipitation for 
+ the Water Year(OCT01 To SEP09) is 251.00 inches, or 113% of average. 
+ The Mountains will be mostly cloudy, with a high near 57. West wind 9 
+ to 11 mph, with gusts as high as 28 mph.
+ The valleys will see Patchy blowing dust after 11am. Increasing clouds, 
+ with a high near 82. Light northwest wind increasing to 5 to 10 mph in 
+ the afternoon. 
+ For the complete forecast go to https://www.weather.gov/pdt/.
+ Cle Elum outflow will slowly ramp down as we near our annual Flip/Flop 
+ operation after the Labor Day weekend.
+ Keechelus outflow will decrease 30 CFS, Kachess will increase 30 CFS,
+ Cle elum will decrease 100 CFS and Rimrock will increase 100 CFS.
+ No other system changes expected. 
+ Irrigation diversion changes must be coordinated with the YFO, Please 
+ allow 48 hours advance notice.  Thank You!            
+ For further information contact the River Operator at 509-573-8112 or 
+ go to https://www.usbr.gov/pn/hydromet/yakima.
+ The next River Ops meeting is OCT08, at YFO and via Teams at 10:30 AM.
+ Have a nice day!!!!!
+ 
+
